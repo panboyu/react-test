@@ -1,5 +1,5 @@
 const B = () => {
-    return <div>B</div>
+    return <div>B is page</div>
 }
 
 export default B
