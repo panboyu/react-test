@@ -1,7 +1,7 @@
 import React from 'react'
 
 const A = () => {
-    console.log('===A===')
+    console.log('===A page===')
     return <div>A</div>
 }
 
