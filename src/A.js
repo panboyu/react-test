@@ -1,12 +1,6 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 
 const A = () => {
-    
-    useEffect(() => {
-        console.log(window.history)
-        window.history.forward(-1)
-    }, [])
-
     return <div>A</div>
 }
 
