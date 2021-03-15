@@ -1,5 +1,5 @@
 const B = () => {
-    console.log('===B page===')
+    console.log('===B page 2===')
     return <div>B</div>
 }
 
